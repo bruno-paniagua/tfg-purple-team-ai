@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Entornos y secretos
+.env
+
+# Datos y salidas del lab
+loot/
+*.evtx
+*.log
+
+# Logs de entrenamiento RL (¡12 GB!) y TensorBoard
+runs/
+logs/
+tensorboard/
+*.out.tfevents.*
+
+# Sistema
+.DS_Store
+Thumbs.db
