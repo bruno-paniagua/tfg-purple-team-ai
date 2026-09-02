@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="docs/img/banner_youtube_rag.png" width="300" alt="RAGNAROK"/>
+    <img src="../docs/img/banner_youtube_rag.png" width="100%" alt="RAGNAROK"/>
   </p>
 
 # 𓊝 RAGNAROK — Deterministic Ransomware Orchestrator
