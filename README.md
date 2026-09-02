@@ -128,7 +128,7 @@ explicit permission to test. The author assumes no liability for misuse.
 
 ## Author & Supervisor
 
-**Bruno Paniagua García** — Telecommunications Engineering, specializing in Cybersecurity & AI
+**Bruno Paniagua García** — Telecommunications Engineering, specializing in Cybersecurity & AI<br>
 **José Antonio Gómez Hernández, PhD** — Associate Professor UGR, Department of Computer Languages ​​and Systems
 
 - GitHub: [@bruno-paniagua](https://github.com/bruno-paniagua)
