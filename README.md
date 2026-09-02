@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="docs/img/banner_git_tfg.png" width="300" alt="TFG cover"/>
+    <img src="docs/img/banner_git_tfg.png" width="100%" alt="TFG cover"/>
   </p>
 
 # Co-design of Red-Blue Team Agents with Artificial Intelligence : Reinforcement Learning for Ransomware in Purple Team Environments
