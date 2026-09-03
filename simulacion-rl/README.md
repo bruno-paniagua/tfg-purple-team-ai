@@ -14,7 +14,7 @@ reinforcement-learning agents — one offensive, one defensive — are trained w
 
 ## The environment
 
-![Environment and RL architecture](../docs/img/arch_purple_rl.png)
+![Environment and RL architecture](../docs/img/arch_purple_rl.jpeg)
 
 An enterprise network modelled as an **11-node graph** segmented into **three VLANs**:
 
@@ -35,7 +35,7 @@ Both agents use **MaskablePPO** (action masking to forbid invalid actions) and t
 
 | | 🔴 Red agent | 🔵 Blue agent |
 |---|---|---|
-| Formulation | MDP with fog-of-war | POMDP with SIEM-like signals |
+| Formulation | POMDP with fog-of-war | POMDP with SIEM-like signals |
 | Actions | Scan · Exploit · Search · Encrypt | Analyze · Isolate · Deceive · Restore |
 | Objective | Encrypt the 3 critical assets | Contain the attack |
 
@@ -96,7 +96,7 @@ Metrics are tracked with TensorBoard and averaged over five seeds.
 ![Red agent training](../docs/img/red_winrate.png)
 
 ### Blue agent — learning to contain
-![Blue agent training](../docs/img/blue_mttc.png)
+![Blue agent training](../docs/img/blue_winrate.png)
 
 ### Robustness under hardening
 

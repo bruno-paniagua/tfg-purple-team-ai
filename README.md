@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="docs/img/banner_git_tfg.png" width="300" alt="TFG cover"/>
+    <img src="docs/img/banner_git_tfg.png" width="100%" alt="TFG cover"/>
   </p>
 
 # Co-design of Red-Blue Team Agents with Artificial Intelligence : Reinforcement Learning for Ransomware in Purple Team Environments
@@ -128,7 +128,7 @@ explicit permission to test. The author assumes no liability for misuse.
 
 ## Author & Supervisor
 
-**Bruno Paniagua García** — Telecommunications Engineering, specializing in Cybersecurity & AI
+**Bruno Paniagua García** — Telecommunications Engineering, specializing in Cybersecurity & AI<br>
 **José Antonio Gómez Hernández, PhD** — Associate Professor UGR, Department of Computer Languages ​​and Systems
 
 - GitHub: [@bruno-paniagua](https://github.com/bruno-paniagua)

@@ -1,8 +1,8 @@
  <p align="center">
-    <img src="docs/img/banner_youtube_rag.png" width="300" alt="RAGNAROK"/>
+    <img src="../docs/img/banner_youtube_rag.png" width="100%" alt="RAGNAROK"/>
   </p>
 
-# 𓊝 RAGNAROK — Deterministic Ransomware Orchestrator
+# ⚔️ RAGNAROK — Deterministic Ransomware Orchestrator
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![impacket](https://img.shields.io/badge/impacket-SMB-orange)
